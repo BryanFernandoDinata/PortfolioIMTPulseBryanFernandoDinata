@@ -79,7 +79,7 @@ header {
   transform: translateZ(-10px) scale(2);
 }
 .foreground {
-  transform: translateZ(-2px) scale(1.5);
+  transform: translateZ(-1px) scale(1.5);
 }
 .background,
 .foreground {
